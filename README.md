@@ -1,4 +1,4 @@
-# Olá!👋 Me chamo Pablo Bastos
+# 👨‍💻 Pablo Bastos
 
 **FullStack em Formação | Estudante de Engenharia da Computação**
 

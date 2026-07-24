@@ -19,10 +19,7 @@ estudando Python, JavaScript e sistemas embarcados.
 
 ## 🧩 Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,mysql,postgres,docker,git,linux" />
-</p>
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,js,css,python,react,nodejs,mysql,postgres,docker,n8n,linux" /> </p>
 ---
 
 ## 📊 Estatísticas

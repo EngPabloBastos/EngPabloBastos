@@ -1,6 +1,6 @@
 # 👋 Pablo Bastos
 
-**Fullstack em Formação | Estudante de Engenharia de Computação**
+**FullStack em Formação | Estudante de Engenharia da Computação**
 
 Meu nome é Pablo, tenho estudado desenvolvimento de software na UNIFACS enquanto atuo como
 estagiário de desenvolvimento e suporte técnico na Alma Tecnologia, subadquirente do PagBank
@@ -10,9 +10,9 @@ construo projetos pessoais como o "The Fenômeno" (simulador de carreira de MMA 
 estudando Python, JavaScript e sistemas embarcados.
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/EngPabloBastos?label=SEGUIDORES&style=for-the-badge&color=2ea44f&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/EngPabloBastos&label=REPOS&query=public_repos&style=for-the-badge&color=e74c3c" />
-  <img src="https://komarev.com/ghpvc/?username=EngPabloBastos&label=VIEWS&style=for-the-badge&color=9b59b6" />
+  <a href="https://www.linkedin.com/in/bastospablo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pablo_Bastos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -28,8 +28,8 @@ estudando Python, JavaScript e sistemas embarcados.
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EngPabloBastos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngPabloBastos&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=EngPabloBastos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EngPabloBastos&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

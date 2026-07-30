@@ -14,7 +14,7 @@ Meu nome é Pablo e sou estudante de Engenharia da Computação na UNIFACS, com 
 
 ## 🧩 Linguagens e Tecnologias
 
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,css3,python,react,nodejs,mysql,postgres,docker,n8n,linux" /> </p>
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,css,python,react,nodejs,mysql,postgres,docker,n8n,linux" /> </p>
 
 ---
 

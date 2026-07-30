@@ -15,7 +15,7 @@ Meu nome é Pablo e sou estudante de Engenharia da Computação na UNIFACS, com 
 ## 🧩 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css3,python,react,nodejs,mysql,postgres,docker,n8n,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,react,nodejs,mysql,postgres,docker,linux" />
 </p>
 
 ---
@@ -23,7 +23,8 @@ Meu nome é Pablo e sou estudante de Engenharia da Computação na UNIFACS, com 
 ## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,react,nodejs,mysql,postgres,docker,linux" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=EngPabloBastos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EngPabloBastos&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

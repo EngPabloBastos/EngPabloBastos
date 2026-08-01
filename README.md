@@ -26,12 +26,3 @@ Meu nome é Pablo e sou estudante de Engenharia da Computação na UNIFACS, com 
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=EngPabloBastos&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EngPabloBastos&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 💬 Um pouco de filosofia
-
-> _"Ainda tô construindo a base — mas cada projeto aqui é um degrau real, não um enfeite."_
-
-⭐ Se curtir algum projeto, deixa uma estrela — e se quiser trocar ideia sobre carreira, tecnologia
-ou os próximos passos, é só chamar!
